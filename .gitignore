@@ -5,3 +5,7 @@ features
 cucumber-report.html
 @rerun.txt
 index.html
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
